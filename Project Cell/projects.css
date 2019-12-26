@@ -1,0 +1,11 @@
+body
+{
+    background-image: url("./50816.jpg");
+    background-color: #cccccc;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    position: relative;
+    background-attachment: fixed;
+}
